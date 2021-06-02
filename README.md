@@ -1,5 +1,4 @@
 # Python Projects
-|: __Machine Learning__ :|
 | File | Description | Tags |
 | --- | --- | --- |
 | |__Machine Learning__ ||
@@ -18,7 +17,9 @@
 | [Code.ipynb](https://github.com/akhachatrian/PythonProjects/blob/master/advanced_python.ipynb) | Movie ratings. 4 Models: Random (NormalPredictor()),  User-Based Collaborative Filtering, Item-Based Collaborative Filtering, Matrix Factorization. Precision and Recall. Top-n predictions| `kNN` `SVD` `Supervised learning` `Cross Validation` `Precision` `Recall` `Machine Learning`|
 | [Code.ipynb](https://github.com/akhachatrian/PythonProjects/blob/master/advanced_python-3.ipynb) | NYC Taxi Trips. Models: Gradient Bossting Regressor. Compute features. Feature importances| `Unsupervised learning` `Feature importance` `Machine Learning`|
 | [Code.ipynb](https://github.com/akhachatrian/PythonProjects/blob/master/kmeans.ipynb) | Using class() manually write k-Means method| `Classes` `k-Means` `Unsupervised learning` `Machine Learning`|
+
 | | __Advanced Online Experimentation__||
+
 | [Code.ipynb](https://github.com/akhachatrian/PythonProjects/blob/master/Economics691_06_Assignment2.ipynb) | Heterogeneous Treatment Effects in spending too much, too little, or about the right amount on assistance to the poor/welfare based on age and political parties of the participants. DoorDash: linking of Venmo accounts to pay for meals. | `Heterogeneous Treatment Effects` `Non-Compliance` `Linear Regression` `Supervised learning` `OLS` `Bootstrap` `Per-Protocol estimator` `As-Treated estimator` `Intent-to-treat estimator`  `Wald estimator` `Weighted Wald estimator` `MinMaxScaler` `MSE` `Advanced Online Experimentation`|
 | [Code.ipynb](https://github.com/akhachatrian/PythonProjects/blob/master/Homework3_AdvExp.ipynb) | Calculate power for a standard experiment. Zynga: see how much revenue it earns from players with the new multi-player version | `Statistical power` `Surrogates` `Network Effects` `Person-level randomization` `City-level randomization` `Two-stage randomization` `Bootstrap` `Advanced Online Experimentation`|
 | [Code.ipynb](https://github.com/akhachatrian/PythonProjects/blob/master/Econ691-06_Assign4.ipynb) | Hello Fresh and Blue Apron: estimate a treatment effect (a low-sodium version of its meal plan).  Write a function that can compute the standard errors for the mean of a data series via 1000 bootstrapped iterations| `Quasi-Experimental Methods` `Event study` `Differences-in-differences analysis` `Regression discontinuity` `Instrumental variables approach` `Linear Regression` `Supervised learning` `OLS` `Bootstrap` `Streaming Bootstrap` `Advanced Online Experimentation`|
