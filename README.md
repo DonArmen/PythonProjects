@@ -1,7 +1,7 @@
 # Python Projects
 | File | Description | Tags |
 | --- | --- | --- |
-| ||__Machine Learning__|||
+| : __Machine Learning__ :|
 | [Code.ipynb](https://github.com/akhachatrian/PythonProjects/blob/master/ArmenKhachatrianML1.ipynb) | House price of unit area prediction using the market historical data set of real estate valuation | `Linear Regression` `Supervised learning` `OLS` `R squared comparison` `Machine Learning`|
 | [Code.ipynb](https://github.com/akhachatrian/PythonProjects/blob/master/Armen_CS%20663_05_Hierarchical.ipynb) | Hierarchical clustering with NIPS Conference Papers dataset (1987 - 2015) | `Clustering` `Hierarchical clustering` `Unsupervised learning` `Machine Learning`|
 | [Code.ipynb](https://github.com/akhachatrian/PythonProjects/blob/master/CS%20663%20-%2003-PCA%20-%20Armen%20Khachatrian.ipynb) | Principal Component Analysis using Wisconsin Diagnosis Breast Cancer and Gisette datasets | `PCA` `Unsupervised learning` `Machine Learning`|
