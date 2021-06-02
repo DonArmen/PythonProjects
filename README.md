@@ -1,5 +1,5 @@
 # Python Projects
-| :__Machine Learning__ :|
+|: __Machine Learning__ :|
 | File | Description | Tags |
 | --- | --- | --- |
 | |__Machine Learning__ ||
