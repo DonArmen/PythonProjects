@@ -1,5 +1,5 @@
 # Python Projects
-[Compicated table]
+| |__Machine Learning__ ||
 | File | Description | Tags |
 | --- | --- | --- |
 | |__Machine Learning__ ||
